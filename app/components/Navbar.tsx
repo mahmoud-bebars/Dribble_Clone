@@ -29,7 +29,13 @@ const Navbar = async () => {
           <>
             <ProfileMenu session={session} />
 
-            <Link href={"/create-project"}>Share Your Work</Link>
+            <Link
+              href={"/create-project"}
+              className="bg-primary-purple text-white rounded-xl text-sm font-meddium max-md:w-full flexCenter gap-3 px-4 py-3"
+            >
+              <Image src="/plus.svg" width={14} height={14} alt="left" />
+              Project
+            </Link>
           </>
         ) : (
           <AuthProviders />
