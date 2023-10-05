@@ -1,6 +1,7 @@
 # NextJS Dribble Clone (Fleiable Edition)
 
-![repo screen](https://github.com/mahmoud-bebars/next-dribble-clone/assets/66588352/8b307280-b90c-45d0-8ed5-817d5d7c037a)
+
+![repo screen](https://github.com/mahmoud-bebars/next-dribble-clone/assets/66588352/eb92bb2b-5b3e-4173-83f0-113677e0de9c)
 
 
 ## Getting Started
